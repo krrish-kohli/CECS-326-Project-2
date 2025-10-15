@@ -1,4 +1,4 @@
-# CECS-326 - Group Project 2: Dining Philosophers Problem
+# CECS-326 - Group Project 2: Synchronization
 
 This project demonstrates **thread synchronization using monitors and condition variables** in Python.
 
