@@ -1,8 +1,9 @@
 # CECS 326 — Group Project 2 Report
-**Program:** `synchronization.py` 
-**Group Members:**  
-- Krrish Kohli  
-- Beau Cordero  
+
+- **Program:** `synchronization.py`
+- **Group Members:**  
+  - Krrish Kohli  
+  - Beau Cordero  
 
 ---
 
