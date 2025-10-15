@@ -19,7 +19,7 @@ Synchronization ensures that no two adjacent philosophers eat at the same time, 
 Run the program directly using Python. No command-line arguments are required.
 
 ```bash
-python3 DiningPhilosophers.py
+python3 synchronization.py
 ```
 
 ## Example Output
