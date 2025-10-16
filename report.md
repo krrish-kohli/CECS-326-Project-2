@@ -2,8 +2,8 @@
 
 - **Program:** `synchronization.py`
 - **Group Members:**  
-  - Krrish Kohli  
-  - Beau Cordero  
+  - Krrish Kohli, 031530055
+  - Beau Cordero, 029378347 
 
 ---
 
